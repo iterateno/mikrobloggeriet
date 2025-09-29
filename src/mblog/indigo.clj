@@ -74,7 +74,6 @@
   ;;
   ;; If we can tease apart visuals from logic, we can view the visuals with
   ;; Portfolio.
-  (prn samvirk)
   (let [doc-visibility (fn [doc]
                          (when (and current-cohort
                                     (not= (:doc/cohort doc) current-cohort))
