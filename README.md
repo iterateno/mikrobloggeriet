@@ -1,3 +1,8 @@
+# FLYTTA
+
+til https://github.com/mikrobloggeriet/mikrobloggeriet.no/
+
+
 # Mikrobloggeriet
 
 https://mikrobloggeriet.no/
